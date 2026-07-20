@@ -1,0 +1,20 @@
+//#region node_modules/.nitro/vite/services/ssr/assets/_tanstack-start-manifest_v-Da7sPh8o.js
+var tsrStartManifest = () => ({ routes: {
+	__root__: {
+		filePath: "C:/Users/srava/Downloads/lumiere-studio-source/src/routes/__root.tsx",
+		children: ["/"],
+		preloads: ["/assets/index-CwnjJtRf.js"],
+		scripts: [{ attrs: {
+			type: "module",
+			async: !0,
+			src: "/assets/index-CwnjJtRf.js"
+		} }]
+	},
+	"/": {
+		filePath: "C:/Users/srava/Downloads/lumiere-studio-source/src/routes/index.tsx",
+		children: void 0,
+		preloads: ["/assets/routes-CayrHchT.js"]
+	}
+} });
+//#endregion
+export { tsrStartManifest };
